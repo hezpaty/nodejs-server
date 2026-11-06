@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-aws-starter",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A minimal Node.js HTTP and WebSocket demo for AWS deployment",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
